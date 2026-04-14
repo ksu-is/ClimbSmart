@@ -21,16 +21,20 @@
 - [ ] Test program
 
 ## Findings from Related Repository
-Repository explored: 
+## Findings from Related Repository
+Repository explored: https://github.com/abhijitbangera/fitnesstracker
 
 What I found:
-- 
+- This project is a Python-based fitness tracker that allows users to input and track workout data.
+- The code is organized to handle user input and store fitness-related information.
 
 Run result:
-- 
+- I reviewed the code and attempted to understand how it runs.
 
 Issues:
-- 
+- Some setup or dependencies may need to be installed to run the project fully.
 
 What I can use in ClimbSmart:
-- 
+- Ideas for organizing user input
+- How to structure a tracking system
+- How to store and manage user data
