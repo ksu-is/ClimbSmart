@@ -13,13 +13,13 @@
 - [ ] Attempt to run the repository - Jack Gillenwater
 - [ ] Document findings - Jack Gillenwater
 
-## Sprint 2 Planned Tasks
-- [ ] Design program flow for logging sessions
-- [ ] Create user input menu
-- [ ] Store session data in a file
-- [ ] Add pain tracking categories
-- [ ] Test program
-
+## Sprint 2 Progress
+- [x] Create basic program structure
+- [x] Add user input for session logging
+- [x] Add pain tracking
+- [x] Save session data to file
+- [x] Display session summary
+- [ ] Improve program features in the next sprint
 ## Findings from Related Repository
 ## Findings from Related Repository
 Repository explored: https://github.com/abhijitbangera/fitnesstracker
