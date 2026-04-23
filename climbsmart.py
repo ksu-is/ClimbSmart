@@ -17,4 +17,12 @@ file = open("sessions.txt", "a")
 file.write(name + "," + session_type + "," + duration + "," + pain + "," + area + "\n")
 file.close()
 
+print("\n--- SESSION SUMMARY ---")
+print("Name:", name)
+print("Type:", session_type)
+print("Duration:", duration)
+print("Pain:", pain)
+if area != "":
+    print("Pain Area:", area)
+
 print("Session logged for", name)
