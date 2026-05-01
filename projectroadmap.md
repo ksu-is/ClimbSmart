@@ -38,3 +38,11 @@ What I can use in ClimbSmart:
 - Ideas for organizing user input
 - How to structure a tracking system
 - How to store and manage user data
+## Sprint 3 Progress
+- [x] Continued improving ClimbSmart code
+- [x] Added intensity tracking to session logs
+- [x] Added warning message when pain is reported
+- [x] Added session notes for extra user feedback
+- [x] Created project splash screen PowerPoint
+- [x] Added PowerPoint file to GitHub repository
+- [ ] Continue testing and improving user experience
